@@ -1,0 +1,1 @@
+"aiogram\npython-dotenv\nfirebase-admin" 
